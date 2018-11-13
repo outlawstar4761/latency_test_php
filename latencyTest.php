@@ -1,8 +1,5 @@
 <?php
 
-$l = new LatencyTest('ms-websuse-2','161.47.139.40',5,30);
-
-
 class LatencyTest{
 
     const PINGCMD = 'ping ';
